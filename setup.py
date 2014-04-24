@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='tumblrtokens',
-      version='0.1',
+      version='0.2',
       description='Abstracts out creating Oauth authentication tokens for Tumblr.',
       url='',
       author='Michael Keller',
